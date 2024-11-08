@@ -97,5 +97,5 @@ INNER JOIN Paciente ON Paciente.IdPaciente = Consulta.IdPaciente
 WHERE DataConsulta BETWEEN '12-12-2023' AND '12-25-2024'
 
 
-BACKUP DATABASE LojaInformaticaDB 
+BACKUP DATABASE ConsultorioMedico
 TO DISK = 'C:\temp\ConsultorioMedico.bak';
