@@ -1,3 +1,0 @@
-git add .
-git commit -m "Nome do Arquivo" 
-git push
